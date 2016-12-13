@@ -14,7 +14,7 @@ public class VoiceTypeService extends BaseService{
     //声音类型操作
     public String voiceTypeHandler(String msgType) {
 
-        return null;
+        return "";
     }
 
 }

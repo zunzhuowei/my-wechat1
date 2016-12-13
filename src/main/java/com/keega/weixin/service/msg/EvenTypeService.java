@@ -17,7 +17,7 @@ public class EvenTypeService extends BaseService {
     public String evenTypeHandler(Map<String, String> msgMap) {
         String evenType = msgMap.get("Event");
 
-        return null;
+        return "";
     }
 
 }

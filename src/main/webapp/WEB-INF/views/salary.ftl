@@ -7,7 +7,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1 " >
 <!--   		,maximum-scale=1.0,user-scalable=no -->
 <title>薪酬</title>
-<script src="<@s.url '/js/jquery.js'/>" type="text/javascript"></script>
+<script src="<@s.url '/js/jquery-1.8.3.min.js'/>" type="text/javascript"></script>
 <script src="<@s.url '/marry/js/bootstrap.min.js'/>" type="text/javascript"></script>
 <link rel="stylesheet" href="<@s.url '/marry/css/bootstrap.min.css'/>">
 <style type="text/css">

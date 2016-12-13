@@ -15,8 +15,8 @@ public class LinkTypeService extends BaseService {
 
     //链接类型操作
     public String linkTypeHandler(Map<String, String> msgMap) {
-
-        return null;
+        System.out.println(msgMap.toString());
+        return "";
     }
 
 }

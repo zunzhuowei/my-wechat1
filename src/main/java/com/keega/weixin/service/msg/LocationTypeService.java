@@ -16,7 +16,7 @@ public class LocationTypeService extends BaseService {
     //位置类型操作
     public String locationTypeHandler(Map<String, String> msgMap) {
 
-        return null;
+        return "";
     }
 
 }

@@ -50,8 +50,8 @@
 
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:spring-jpa.xml</param-value>
         <param-value>classpath:spring-jpa.xml,classpath:spring-quartz.xml</param-value>
+        <!--<param-value>classpath:spring-jpa.xml</param-value>-->
         <!-- 当要是用时间调度的时候需要配置spring-quartz-test.xml进来 -->
         <!--<param-value>classpath:spring-jpa.xml,classpath:spring-quartz-test.xml</param-value>-->
     </context-param>
